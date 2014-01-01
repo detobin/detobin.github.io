@@ -16,6 +16,7 @@ detobin.github.io
 - ~~[x] Start using git hub pages~~
 - [ ] How to protect gh pages
 - [ ] Private pages
+- [ ] add parking sub site
 
 ---
 
@@ -23,5 +24,5 @@ Work tasks
 ==========
 
 - [ ] Patent
-- [ ] Recover Levi
+- ~~[X] Recover Levi~~
 - [ ] Mcafee update check
